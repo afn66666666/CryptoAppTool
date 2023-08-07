@@ -1,0 +1,6 @@
+[submodule "Client"]
+	path = Client
+	url = C:\\Users\\china\\IdeaProjects\\Client
+[submodule "Server"]
+	path = Server
+	url = C:\\Users\\china\\IdeaProjects\\Server
